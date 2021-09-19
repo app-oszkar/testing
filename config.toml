@@ -1,0 +1,19 @@
+baseURL = "https://faker919.github.io/"
+languageCode = "zh-cn"
+title = "faker919's blog"
+theme = "github-style"
+
+[params]
+  author = "Wilson Edwards"
+  description = "😅"
+  github = "faker919"
+  email = "faker919@protonmail.com"
+  url = "https://faker919.github.io/"
+  keywords = "blog, google analytics"
+  rss = true
+  lastmod = true
+  avatar = "/images/0.jpg"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+
