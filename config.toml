@@ -1,14 +1,13 @@
-baseURL = "https://faker919.github.io/"
+baseURL = "https://oyyzz.github.io/"
 languageCode = "zh-cn"
-title = "faker919's blog"
+title = "oyyzz's blog"
 theme = "github-style"
 
 [params]
   author = "Wilson Edwards"
   description = "😅"
-  github = "faker919"
-  email = "faker919@protonmail.com"
-  url = "https://faker919.github.io/"
+  github = "oyyzz"
+  url = "https://oyyzz.github.io/"
   keywords = "blog, google analytics"
   rss = true
   lastmod = true
