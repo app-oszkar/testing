@@ -11,6 +11,7 @@ theme = "github-style"
   keywords = "blog, google analytics"
   rss = true
   lastmod = true
+  favicon = "/images/github.png"
   avatar = "/images/0.jpg"
 
 [frontmatter]
