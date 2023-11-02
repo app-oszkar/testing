@@ -1,5 +1,5 @@
 baseURL = "https://test.kiwichat.eu.org/"
-languageCode = "en-en"
+languageCode = "zh-cn"
 title = "test blog"
 theme = "github-style"
 
