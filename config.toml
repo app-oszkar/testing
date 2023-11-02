@@ -1,18 +1,18 @@
 baseURL = "https://test.kiwichat.eu.org/"
-languageCode = "zh-cn"
-title = "oyyzz's blog"
+languageCode = "en-en"
+title = "test blog"
 theme = "github-style"
 
 [params]
-  author = "Wilson Edwards"
+  author = "Testing"
   description = "😅"
-  github = "oyyzz"
-  url = "https://oyyzz.github.io/"
+  github = "app-oszkar"
+  url = "https://test.kiwichat.eu.org/"
   keywords = "blog, google analytics"
   rss = true
   lastmod = true
   favicon = "/images/github.png"
-  avatar = "/images/0.jpg"
+  avatar = "/images/oscar.png"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
