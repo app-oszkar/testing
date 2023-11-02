@@ -1,3 +1,7 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:app-oszkar/testing.git
+	branch = master
 [submodule "themes/github-style"]
 	path = themes/github-style
 	url = git@github.com:app-oszkar/g-s.git
