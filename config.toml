@@ -1,4 +1,4 @@
-baseURL = "https://test.kiwichat.eu.org/"
+baseURL = "https://testing.kiwichat.eu.org/"
 languageCode = "zh-cn"
 title = "test blog"
 theme = "github-style"
