@@ -2,7 +2,7 @@
 title: "KiwiChat Wordpress Plugin"
 date: 2024-01-03T00:11:56+08:00
 draft: false
-summary: 'My wordpress plugins.'
+summary: 'KiwiChat Wordpress Plugin'
 tags:
     - Plugins
     - WordPress
@@ -69,7 +69,12 @@ mathJax: true
 
 KiwiChat is distributed by an [GPLv3 or later](http://www.gnu.org/licenses/gpl-3.0.html).
 
+View it on [GitHub](https://github.com/KiwiChat/wp-kiwichat).
 
-<!-- github  button -->
-<a class="github-button" href="https://github.com/KiwiChat/wp-kiwichat" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="View it on GitHub">View it on GitHub</a>
+View it on [WordPress](https://wordpress.org/plugins/kiwichat).
+
+[[https://kiwichat.github.io](https://kiwichat.github.io).
+
+
+
 
